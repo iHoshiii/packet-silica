@@ -1,0 +1,6 @@
+# Local document review copies and rendered previews
+.review_work/
+
+# Generated artifacts and local build dependencies
+outputs/
+node_modules/
